@@ -5,7 +5,7 @@ const ContactPage = () => {
     <div className='flex justify-center items-center flex-1'>
       <div className='grid grid-cols-2 max-w-3xl gap-10'>
         <div className='flex justify-center items-center'>
-          <img src='/search.svg' alt='' />
+          <img src='search.svg' alt='' />
         </div>
         <div className='flex flex-col gap-4'>
           <div>

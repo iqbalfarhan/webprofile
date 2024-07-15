@@ -26,7 +26,7 @@ const HomePage = () => {
           </small>
         </div>
         <div className='flex justify-center items-center'>
-          <img src='/netflix.svg' alt='' />
+          <img src='netflix.svg' alt='' />
         </div>
       </div>
     </div>

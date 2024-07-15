@@ -4,7 +4,7 @@ const NotFound = () => {
   return (
     <div className='flex justify-center items-center h-screen'>
       <div className='w-96 space-y-10 text-center'>
-        <img src='/404.svg' alt='' />
+        <img src='404.svg' alt='' />
         <div className='space-y-4'>
           <h1 className='font-bold text-4xl'>
             Oh tidak, kamu seharusnya tidak melihat ini
